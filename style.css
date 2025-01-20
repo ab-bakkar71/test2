@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(85, 82, 82);
+}
+h1{
+    text-align: center;
+    color: #fff;
+    border: 1px solid ;
+}
+
+div{
+    color: #fff;
+    background-color: #e42424;
+}
+
+h4{
+    text-align: center;
+}
